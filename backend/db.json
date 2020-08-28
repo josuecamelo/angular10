@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {
+      "id": 1,
+      "name" : "Caneta Azul",
+      "price" : 5.89
+    },
+    {
+      "id": 1,
+      "name" : "Caneta Preta",
+      "price" : 5.89
+    },
+    {
+      "id": 1,
+      "name" : "Caneta Vermelha",
+      "price" : 5.89
+    },
+    {
+      "id": 1,
+      "name" : "Caneta Verde",
+      "price" : 5.89
+    }
+  ]
+}
